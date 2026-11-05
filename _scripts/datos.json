@@ -1,0 +1,12 @@
+{
+  "sitio": "Daniel Schmidt Abogado",
+  "titulo_corto": "Daniel Schmidt Abogado",
+  "responsable": "Daniel Schmidt, abogado",
+  "email": "danieleduardoschmidt@gmail.com",
+  "telefono": "+54 9 11 2658-3978",
+  "persona": "nosotros",
+  "formulario": false,
+  "btn": "btn-gold",
+  "theme_color": "#0C0C1C",
+  "css": {"fondo": "var(--n0)", "fondo_hero": "linear-gradient(180deg,#16163A,#0C0C1C)", "texto_hero": "#FFFFFF", "acento": "var(--accent-l)", "muted": "var(--muted)", "titulos": "var(--head)"}
+}
